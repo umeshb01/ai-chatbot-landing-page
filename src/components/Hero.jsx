@@ -11,7 +11,7 @@ const Hero = () => {
 
         {/* Top Content */}
         <div className="w-full flex flex-col items-center text-center mt-8">
-          <h1 className="text-3xl sm:text-4xl lg:text-6xl font-extrabold text-white leading-[1.1] tracking-tight mb-6 max-w-4xl">
+          <h1 className="text-3xl sm:text-4xl lg:text-6xl font-extrabold text-white leading-[1.2] tracking-tight mb-6 max-w-4xl">
             Instantly Engage Customers with <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-indigo-400">Smart AI Chatbots</span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-400 mb-10 max-w-2xl">

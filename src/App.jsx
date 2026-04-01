@@ -2,6 +2,8 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Features from './components/Features';
+import FeaturesVisual from './components/FeaturesVisual';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -10,7 +12,9 @@ function App() {
       <main>
         <Hero />
         <Features />
+        <FeaturesVisual />
       </main>
+      <Footer />
     </div>
   );
 }
